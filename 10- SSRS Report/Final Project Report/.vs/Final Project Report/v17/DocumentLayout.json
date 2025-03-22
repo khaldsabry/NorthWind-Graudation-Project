@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My files\\ITI Final Project\\Visualization \u0026 Repporting\\Final Project Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{990A7954-9003-4EE2-A083-C0AC255F08ED}|Final Project Report\\Final Project Report.rptproj|D:\\My files\\ITI Final Project\\Visualization \u0026 Repporting\\Final Project Report\\Final Project Report\\CustomerReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{990A7954-9003-4EE2-A083-C0AC255F08ED}|Final Project Report\\Final Project Report.rptproj|solutionrelative:Final Project Report\\CustomerReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerReport.rdl [Design]",
+              "DocumentMoniker": "D:\\My files\\ITI Final Project\\Visualization \u0026 Repporting\\Final Project Report\\Final Project Report\\CustomerReport.rdl",
+              "RelativeDocumentMoniker": "Final Project Report\\CustomerReport.rdl",
+              "ToolTip": "D:\\My files\\ITI Final Project\\Visualization \u0026 Repporting\\Final Project Report\\Final Project Report\\CustomerReport.rdl [Design]",
+              "RelativeToolTip": "Final Project Report\\CustomerReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-22T21:38:40.549Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
