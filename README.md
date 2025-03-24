@@ -166,12 +166,74 @@ Screenshots of the Azure ETL process:
 ---
 
 ### 5. Cube Creation
-[Placeholder for content]
+We have made 6 Cubes caching out the important aggregations that we will use later on the reports
+
+1. Data Warehouse Cube
+
+![DWH Cube](https://github.com/user-attachments/assets/ad2d9558-7693-43c4-97d6-2c89cc35b7b7)
+
+   
+2. Customers
+
+![Customers Cube](https://github.com/user-attachments/assets/f55608d6-2b01-494b-a4c4-26a2fcece9d6)
+
+   
+3. ShipInfo
+
+![ShipInfo Cube](https://github.com/user-attachments/assets/e8f0c934-a7d7-4912-b8b1-c278f3c30e0f)
+
+4. Shippers
+
+![Shippers Cube](https://github.com/user-attachments/assets/b7507101-473e-41dd-8373-884e662c98f0)
+
+   
+5. Products
+
+![Products Cube](https://github.com/user-attachments/assets/00458b7a-d90b-4f47-bea6-813ac0da83a2)
+
+
+7. Employees
+   
+![Employees Cube](https://github.com/user-attachments/assets/d8f8c354-94e5-4a5f-b404-80a40e6349e1)
 
 ---
 
 ### 6. Power BI Dashboarding
-[Placeholder for content]
+Usign **Power BI**, we created this dashboard to provides insights into key Northwind database dimensions, designed to answer key business questions.
+ It includes light and dark mode options for user flexibility and leverages bookmarks for intuitive navigation.
+  Check the screenshots below for specific dimensions. Full details are available in the documentation.
+
+### Screenshots
+- Overview:
+   ![Overview](https://github.com/user-attachments/assets/4823aa44-a29d-4fba-adf3-207dddff43e3)
+  
+- Employee Analysis:
+   ![Employee](https://github.com/user-attachments/assets/c0b1b16d-0f7e-4c4f-9d02-f83a5bfd4ad4)
+
+- Demographics Analysis:
+  ![Demographics](https://github.com/user-attachments/assets/6619c12b-ca5a-48ba-a39b-53a1eed83ddc)
+  
+- Customer Analysis:
+  ![Customer](https://github.com/user-attachments/assets/a1f59dc6-0c0c-4531-872e-a81ee2d7bd81)
+  
+- Suppliers Analysis:
+  ![Supplier](https://github.com/user-attachments/assets/399bea37-7634-485e-ab5b-9d986c6311df)
+  
+- Product Analysis:
+  ![Product](https://github.com/user-attachments/assets/ffcd7298-d877-43e7-817c-58686a20f8c4)
+  
+- Shippers Analysis:
+   ![Shipper](https://github.com/user-attachments/assets/5037706e-4c97-4333-81a2-2ff453e61da5)
+  
+- Dark Mode:
+  
+   ![DarkMode](https://github.com/user-attachments/assets/06403c28-4699-47f7-90b9-bb176e23bca1)
+
+
+
+
+
+
 
 ---
 
@@ -201,7 +263,23 @@ Dashboards include:
 ---
 
 ### 9. SSRS (SQL Server Reporting Services)
-[Placeholder for content]
+We have made 4 comprehensive reports about
+
+1. Employee Performance
+   
+![Employee Performance](https://github.com/user-attachments/assets/703b3f7c-a1a1-4e6b-b297-ba24da70fcd7)
+
+2. Products
+   
+![Products](https://github.com/user-attachments/assets/5bf90af6-c4ff-4227-9994-acbbcf164374)
+
+3. Customers
+   
+![Customers](https://github.com/user-attachments/assets/7693f1d5-1625-450b-94df-3e6fe80d8353)
+
+4. Suppliers
+   
+![Suppliers](https://github.com/user-attachments/assets/fa86473c-69c0-4ee2-b506-f49ca317eb4d)
 
 ---
 
